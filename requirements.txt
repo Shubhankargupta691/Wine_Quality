@@ -1,3 +1,7 @@
+#local Pkgs install
+-e .
+
+#third Party Pkgs install
 dvc
 dvc[gdrive]
 scikit-learn
