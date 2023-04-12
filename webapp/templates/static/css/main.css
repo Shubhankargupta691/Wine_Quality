@@ -6,3 +6,16 @@ body {
     background-color: #eff8ff;
     padding: 10px;
 }
+.blockquote.mb-2{
+    text-align: center;
+    font-weight: 200;
+}
+.blockquote{
+    position:static ;
+    display: block;
+    margin: 20px;
+    padding: 30px;
+    margin-top: 5px;
+
+
+}
