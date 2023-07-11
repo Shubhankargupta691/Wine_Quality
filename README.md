@@ -63,5 +63,3 @@ build your own package commands-
 ```bash
 python setup.py sdist bdist_wheel
 ```
-
-CREDIT  to KRISH NAIK for providing dataset 
